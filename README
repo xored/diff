@@ -1,1 +1,3 @@
 Fantom diff is a comparison library, which allows to find differences between two sequences of objects of any type.
+
+The original repository: https://bitbucket.org/dsavenko/diff
